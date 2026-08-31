@@ -71,7 +71,7 @@ In dit portfolio documenteer ik mijn werk tijdens de minor **S3 Software Develop
 <div class="grid">
   <a class="card" href="{{ '/AccessabilityTest.html' | relative_url }}"><h3>Toegankelijkheidstest</h3><p>Screenreader testen met slechtziende gebruikers</p></a>
   <a class="card" href="{{ '/FeedbackExterneGebruiker.html' | relative_url }}"><h3>Feedback externe gebruiker</h3><p>Feedback van een slechtziende tester</p></a>
-  <a class="card" href="{{ '/CodeReviews/' | relative_url }}"><h3>Code reviews</h3><p>Reviews ontvangen van teamleden</p></a>
+  <a class="card" href="{{ '/CodeReviews/' | relative_url }}"><h3>Code reviews</h3><p>Reviews ontvangen van docenten</p></a>
   <a class="card" href="{{ '/GedeployedProduct.html' | relative_url }}"><h3>Gedeployed product</h3><p>Deployment documentatie</p></a>
 </div>
 
