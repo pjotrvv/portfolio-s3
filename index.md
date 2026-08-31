@@ -83,7 +83,7 @@ In dit portfolio documenteer ik mijn werk tijdens de minor **S3 Software Develop
 
 ## Tech Stack
 
-- **Backend:** Java 21, Spring Boot, Maven
-- **Frontend:** Nuxt 3 (Vue.js), gedeployed via Tomcat
-- **Infrastructuur:** Azure VM, Tomcat 10, SSH/SCP deployment
-- **Onderzoek:** Vue 3 + Vite, Python FastAPI
+- **Backend:** Java, Spring Boot, Maven
+- **Frontend:** Native JavaScript, HTML &amp; CSS
+- **Infrastructuur:** Azure VM, Tomcat, SSH/SCP deployment
+- **Onderzoek (mini-conferentie):** Vue 3 + Vite, Python FastAPI

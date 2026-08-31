@@ -5,7 +5,7 @@ title: Code Reviews
 
 # Code Reviews
 
-Reviews ontvangen van teamleden op mijn code.
+Reviews ontvangen van docenten op mijn code.
 
 - [Code Review 1](./CodeReview1.html) - Review door Mirko (foutmeldingen vertaling)
 - [Code Review 2](./CodeReview2.html) - Review door Alex (PR #104 account aanmaken)

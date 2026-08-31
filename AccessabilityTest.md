@@ -12,10 +12,12 @@ title: Toegankelijkheidstest
 [URL van de site](http://172.160.249.155/)
 
 ## Testplan
-Gebruikers
-| Rol     	| Wachtwoord 	| Email          	|
-|---------	|------------	|----------------	|
-| Manager 	| 1234       	| jan@quintor.nl 	|
+
+Gebruikers:
+
+| Rol     | Wachtwoord | Email          |
+|---------|-----------|----------------|
+| Manager | 1234      | jan@quintor.nl |
 
 ### Scenario 1: Manager Dashboard Accessibility
 1. Login als een manager
