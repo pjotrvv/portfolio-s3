@@ -1,6 +1,5 @@
-theme: jekyll-theme-cayman
 title: "Pjotr van Veen - S3 Portfolio"
-description: "Portfolio for the S3 Software Development program at HU University of Applied Sciences Utrecht"
+description: "Portfolio voor de minor S3 Software Development aan de Hogeschool Utrecht"
 baseurl: ""
 url: ""
 
@@ -16,8 +15,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - "**/node_modules"
   - onderzoek/demo-school2
   - onderzoek/ProfanityDetectionMLService
+  - onderzoek/demo-school2/**
+  - onderzoek/ProfanityDetectionMLService/**
 
 defaults:
   - scope:

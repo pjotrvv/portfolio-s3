@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} · {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-name">Pjotr van Veen</span>
+        <span class="brand-sub">S3 Portfolio · Hogeschool Utrecht</span>
+      </a>
+      <nav class="site-nav" aria-label="Hoofdnavigatie">
+        {% assign nav = site.nav | default: "Home|/,Sprints|/sprints/," %}
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/sprints/' | relative_url }}">Sprints</a>
+        <a href="{{ '/#onderzoek' | relative_url }}">Onderzoek</a>
+        <a href="https://github.com/pjotrvv/portfolio-s3" target="_blank" rel="noopener">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="content" class="site-main">
+    <div class="container">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© {{ 'now' | date: "%Y" }} Pjotr van Veen — S3 Software Development, Hogeschool Utrecht</p>
+      <p class="footer-github"><a href="https://github.com/pjotrvv/portfolio-s3" target="_blank" rel="noopener">Bekijk deze site op GitHub</a></p>
+    </div>
+  </footer>
+</body>
+</html>

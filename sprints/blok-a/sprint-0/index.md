@@ -19,8 +19,8 @@ hello-world screenshots. Waarschijnlijk is het nog niet veel, maar nu een mooi '
 <!-- 
 Hier is als het goed is nog niet zoveel te zien. Meer een test voor ons docenten of we dit logistiek werkend gaan krijgen! -->
 
-- [Requirement analyse sprint 0](../../../requirements.md)
-- [Visie Scope](./VisieScope.md)
+- [Requirement analyse sprint 0](../../../requirements.html)
+- [Visie Scope](./VisieScope.html)
 
 ## Zelfbeoordeling
 
