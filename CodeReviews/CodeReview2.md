@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Code Review 2"
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
 # Code review 2
 Deze feedback is gegeven door Alex
 

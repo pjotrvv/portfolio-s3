@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sprint Overdracht 2"
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
 # Sprint Overdrachtsdocument
 
 > Plaats dit bestand in `docs/sprint-overdracht/` van de teamrepository.

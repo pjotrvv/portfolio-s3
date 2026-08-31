@@ -1,4 +1,11 @@
-#  Sprint A Backend
+---
+layout: default
+title: Sprint A Backend
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
+# Sprint A Backend
 
 ## Impressie
 

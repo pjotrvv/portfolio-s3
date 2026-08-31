@@ -1,4 +1,11 @@
-# S3 - Accessibility Test
+---
+layout: default
+title: Toegankelijkheidstest
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
+# S3 - Toegankelijkheidstest
 
 ## Site
 

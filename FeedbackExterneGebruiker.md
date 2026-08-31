@@ -1,3 +1,10 @@
+---
+layout: default
+title: Feedback Externe Gebruiker
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
 # Feedback externe gebruiker
 
 Dit is de feedback die ik van mijn vader heb ontvangen.

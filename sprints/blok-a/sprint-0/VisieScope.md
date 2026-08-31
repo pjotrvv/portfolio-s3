@@ -1,3 +1,8 @@
+---
+layout: default
+title: Visie & Scope
+---
+
 # Visie Scope
 ## Doel
 Het doel van dit project is om het makkelijker te maken voor werknemers om kosten te kunnen declareren bij hun werkgever, de gebruikers van deze applicatie zullen in eerste instantie Quintor zijn. Dit is een groot ICT-bedrijf met veel werknemers dus dit zullen de grootste gebruikers van onze applicatie zijn. 

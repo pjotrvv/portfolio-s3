@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sprint Overdracht Template
+---
+
 Dit is het template wat ik samen besproken heb met het team om te gebruiken voor een sprint overdracht.
 
 # Sprint Overdrachtsdocument

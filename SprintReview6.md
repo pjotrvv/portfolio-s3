@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sprint Review 6
+---
+
 # Sprint Review Feedback
 
 ## Proces review (Annemieke)

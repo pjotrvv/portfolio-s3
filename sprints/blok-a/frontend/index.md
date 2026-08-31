@@ -1,0 +1,11 @@
+---
+layout: default
+title: Sprint A Frontend
+---
+
+| Criterium               	| Bewijs                                                                                                                                                                        	| Eigen inschatting                                                                	| Onderbouwing                   	|
+|-------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------	|--------------------------------	|
+| Kwantiteit              	| [Sprint Review 5](../../../SprintReview5.md)    	| Op 	| Ik denk hier op  niveau te halen omdat ik best veel heb gedaan aan front-end, namelijk een hele nieuwe account aanmaken pagina en een hele nieuwe categorie aanmaken pagina. 	|
+| Kwaliteit               	|  <img width="1157" height="1217" alt="image" src="https://github.com/user-attachments/assets/3af35f8c-6566-482a-8313-3a6306ff8d5c" /> <img width="960" height="1115" alt="image" src="https://github.com/user-attachments/assets/e4b7da02-2e16-46f9-9ad9-f9dbe0485484" />  | Boven niveau omdat ik makkelijk met Nuxt  makkelijk werk en websites kan maken. Daarnaast heb ik voor mijn mini-onderzoek gebruik gemaakt van Vue.	|
+| Usability Accessibility 	| <img width="2499" height="1393" alt="image" src="https://github.com/user-attachments/assets/ed47dc94-c35b-4df5-8ca5-4aa9db47d987" /> [Externe gebruiker feedback](../../../FeedbackExterneGebruiker.md)	| Op	| Ik denk op niveau omdat we erg veel tijd hebben gespendeerd aan het testen van accessability d.m.v screenreader zelf installeren en axe. Daarnaast heeft mijn vader de applicatie een 3e keer getest en hij is zelf slecht-ziend. |
+| Professionele Houding   	| [Verslag van de retro](../../../Retros/2.md)                                                                                                 	| Op 	| Ik heb alles netjes communiceerd met het team en elke dag een standup gehouden en was ik op tijd aanwezig. 	|

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Requirementanalyse
+---
+
 # Requirementanalyse
 ## 1. Doel van de applicatie
 Een gebruiksvriendelijke, efficiënte en schaalbare webapplicatie ontwikkelen voor het indienen, goedkeuren en verwerken van declaraties, met als doel:

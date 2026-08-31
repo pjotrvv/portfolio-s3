@@ -1,4 +1,9 @@
-#  Sprint B-2
+---
+layout: default
+title: Sprint B-2
+---
+
+# Sprint B-2
 
 ## Impressie
 
@@ -34,7 +39,7 @@ Als hier geen gekkigheid staat, dan hoef je dit niet toe te lichten. Maar als hi
 * Accessiblity - [Boven/Op/Onder] Niveau:
   ...
 
-<!-- Deze sprint wordt je werk ook expliciet getest op Accessibility. Hiervoor werken we samen met Stichting Accessibility. Dus link een aantal stukken code/ontwerp waarbij je expliciet rekening hebt gehouden met accessibility. En ligt toe wat je daarvoor hebt aangepast. -->
+<!-- Deze en volgende sprint wordt je werk ook expliciet getest op Accessibility. Hiervoor werken we samen met Stichting Accessibility. Dus link een aantal stukken code/ontwerp waarbij je expliciet rekening hebt gehouden met accessibility. En ligt toe wat je daarvoor hebt aangepast. Volgende sprint moet het goed zijn, in deze sprint is het ook ok als je juist veel leert over wat er nog niet helemaal goed gaat. -->
 
 * Professionele Houding - [Boven/Op/Onder] Niveau
     * tov. Team: ... <!-- Is het gelukt om je beloofde werk binnen een redelijke tijd op te leveren? Heb je werk van anderen kunnen reviewen? -->

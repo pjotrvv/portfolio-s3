@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sprint Overdracht 3"
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
 # Sprint Overdrachtsdocument
 
 ## 1. Overzicht

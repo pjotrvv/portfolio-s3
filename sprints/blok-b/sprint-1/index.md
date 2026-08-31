@@ -1,4 +1,11 @@
-#  Sprint B-1
+---
+layout: default
+title: Sprint B-1
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
+# Sprint B-1
 
 ## Impressie
 

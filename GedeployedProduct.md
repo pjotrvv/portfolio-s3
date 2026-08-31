@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gedeployed Product
+---
+
 # Deployment
 
 - Een **Azure VM** met Debian.

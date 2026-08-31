@@ -1,3 +1,26 @@
-theme: jekyll-theme-minimal
-plugins: 
+theme: jekyll-theme-cayman
+title: "Pjotr van Veen - S3 Portfolio"
+description: "Portfolio for the S3 Software Development program at HU University of Applied Sciences Utrecht"
+baseurl: ""
+url: ""
+
+plugins:
   - jemoji
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - onderzoek/demo-school2
+  - onderzoek/ProfanityDetectionMLService
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

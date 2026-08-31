@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sprint 0
+---
+
 # Sprint 0
 
 ## Impressie
@@ -14,8 +19,8 @@ hello-world screenshots. Waarschijnlijk is het nog niet veel, maar nu een mooi '
 <!-- 
 Hier is als het goed is nog niet zoveel te zien. Meer een test voor ons docenten of we dit logistiek werkend gaan krijgen! -->
 
-- [Requirement analyse sprint 0](https://github.com/HU-SD-S3-Studenten-S2526/s3-portfolio-pjotrvv/blob/main/requirements.md)
-- [Visie Scope](https://github.com/HU-SD-S3-Studenten-S2526/s3-portfolio-pjotrvv/blob/main/sprints/blok-a/sprint-0/VisieScope.md)
+- [Requirement analyse sprint 0](../../../requirements.md)
+- [Visie Scope](./VisieScope.md)
 
 ## Zelfbeoordeling
 

@@ -1,4 +1,9 @@
-# Sprint Review Feedback – Proces, Demo en Code
+---
+layout: default
+title: Sprint Review 5
+---
+
+# Sprint Review Feedback - Proces, Demo en Code
 
 ## Context
 Deze feedback is ontvangen tijdens de sprint review dag. De feedback richt zich op proces, demo inhoud en codekwaliteit.

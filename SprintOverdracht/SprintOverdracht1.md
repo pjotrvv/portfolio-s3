@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Sprint Overdracht 1"
+---
+
+> **Let op:** De GitHub-links in dit document verwijzen naar de (beveiligde) school-repo en zijn niet meer openbaar bereikbaar.
+
 # Overdrachtsdocument frontend sprint 3
 ## Wat is er opgeleverd?
 - Een pagina waar je accounts kan aanmaken als manager in de front-end
